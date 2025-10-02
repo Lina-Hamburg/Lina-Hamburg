@@ -1,4 +1,5 @@
 # Лина Гамбург | Data Analyst
+[**Ссылка на портфолио**](https://github.com/Lina-Hamburg/Portfolio)
 
 ### 👋 Добрый день! Меня зовут Лина,  я — начинающий Data Analyst с 16-летним опытом в маркетинге.
 
